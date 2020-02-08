@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "youtube-search": "^1.1",
-    "custom-request-promise": "file:../custom-request-promise"
+    "custom-request-promise": "custom-request-promise"
   },
   "deprecated": false,
   "description": "Several Youtube utility methods (usually ID parsing and data fetching) packed in a neat class",
