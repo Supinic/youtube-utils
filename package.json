@@ -5,10 +5,10 @@
   },
   "dependencies": {
     "youtube-search": "^1.1",
-    "custom-request-promise": "custom-request-promise"
+    "custom-request-promise": "github:supinic/custom-request-promise"
   },
   "deprecated": false,
-  "description": "Several Youtube utility methods (usually ID parsing and data fetching) packed in a neat class",
+  "description": "Several Youtube utility methods packed together",
   "engines": {
     "node": ">= 8.0"
   },
